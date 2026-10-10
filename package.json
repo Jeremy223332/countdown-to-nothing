@@ -1,0 +1,13 @@
+
+{
+  "name": "countdown-to-secret",
+  "version": "1.0.0",
+  "description": "A Discord bot that counts down to holidays",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.22.1"
+  }
+}
